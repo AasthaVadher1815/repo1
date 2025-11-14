@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi, I'm Krisha Patel!</h1>
+<h1 align="center">👋 Hi, I'm Aastha Vadher!</h1>
 
-<h3 align="center">💻 Future Data Scientist | AI Enthusiast | Cybersecurity Explorer</h3>
+<h3 align="center">💡 Aspiring AI Engineer | Full-Stack Developer | Tech Innovator</h3>
+
 
 <p align="center">
   🎓 <b>Bachelor of Technology</b> in Information and Communication Technology <br>
