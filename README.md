@@ -101,33 +101,18 @@ I am committed to **collaborative problem-solving**, **adapting to emerging tech
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishaPatel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishaPatel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 Contribution Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KrishaPatel&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishapatel/" target="_blank">
+  <a href="www.linkedin.com/in/Aastha-Vadher" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Krisha%20Patel-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:krishapatel@gmail.com">
+  <a href="mailto:aasthavadher2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-krishapatel%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/KrishaPatel" target="_blank">
+  <a href="https://github.com/AasthaVadher1815" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-KrishaPatel-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
