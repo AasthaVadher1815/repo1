@@ -106,16 +106,22 @@ I am committed to **collaborative problem-solving**, **adapting to emerging tech
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/Aastha-Vadher" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krisha%20Patel-blue?style=for-the-badge&logo=linkedin"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/Aastha-Vadher" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aastha%20Vadher-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
+  <!-- Email -->
   <a href="mailto:aasthavadher2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krishapatel%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-aasthavadher2005%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/AasthaVadher1815" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-KrishaPatel-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-AasthaVadher1815-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
 
 ---
 
